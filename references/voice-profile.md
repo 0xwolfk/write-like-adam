@@ -90,7 +90,7 @@ Corrections/direction-giving:
 
 Personal/emotional (use only when the task is explicitly personal — don't default here):
 - "i consider creative health is important and has been lack of highlight. i dont want to see myself suffer at an early age with mental health."
-- "my shadow, im looking to be a false ranker, hiding my skills. like to blend in among the common."
+- "im looking to be a false ranker, hiding my skills. like to blend in among the common."
 - "Some things just don't deserve my energy."
 
 Malay code-switch (only when context calls for Malay or bilingual audience):
