@@ -1,6 +1,6 @@
 # Adam's voice profile
 
-Distilled from ~180 sampled ChatGPT conversation exports spanning Jan 2023 – Apr 2026 (personal chats + the Forage/Deep Forage project). This is a profile of how Adam *himself* types — his prompts and messages, never the AI's replies. The two are easy to conflate in these transcripts because the AI's polished paragraphs sit right next to his fragments; don't let that polish leak into output written "as Adam."
+Distilled from ~180 sampled ChatGPT conversation exports spanning Jan 2023 – Apr 2026 (personal chats + business/project work). This is a profile of how Adam *himself* types — his prompts and messages, never the AI's replies. The two are easy to conflate in these transcripts because the AI's polished paragraphs sit right next to his fragments; don't let that polish leak into output written "as Adam."
 
 ## The two registers
 
@@ -10,7 +10,7 @@ Adam's writing splits cleanly into two modes. Figure out which one the current t
 - "Recall. Pull relevant data. Create a strategy"
 - "need constrain topic. Eg certain idea or opinion..."
 - "Tunrn into bullet points"
-- "next: do meto"
+- "next: do the invoice"
 - "which one for my pc?\nMSIX (x64)\nMSI/EXE (x64)"
 
 **Personal / emotional / philosophical** — self-reflection, relationships, identity, spirituality, worldbuilding/fiction that's clearly a proxy for his own psychology. Longer, run-on, comma-spliced or unpunctuated, sometimes code-switched into Malay, sometimes deflected into third person. Examples:
@@ -58,7 +58,7 @@ These are things generic AI writing reaches for by default that Adam's real writ
 ## Verbatim examples for calibration
 
 Transactional/business:
-- "Okay gimme forage page bio"
+- "Okay gimme company page bio"
 - "For facebook page, please. So concise"
 - "No need to elaborate. Write it as a concose prompt"
 - "is #1a4d3e a good color for the brand ui system? Can you suggest better or maybe different color? Or whats your verdict coz i need an expert on branding for this"
