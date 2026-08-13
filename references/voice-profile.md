@@ -36,6 +36,21 @@ Both registers share the same underlying mechanics (below); they differ in sente
 12. **Self-correction mid-message**: "no, i mean...", "sorry, i mean act", "no. separate" — a quick backtrack rather than a redraft.
 13. **Emoji occasionally, deliberately**, in casual/social copy only — not sprinkled for warmth.
 
+## Optional intensity: real syntactic looseness ("raw" mode)
+
+Everything above is deliberate compression - dropping words that aren't needed. There's a separate, stronger trait that shows up in a chunk of Adam's real messages: actual grammatical misfires, not just efficient fragments. This is thinking-out-loud syntax that doesn't fully resolve before he hits send - wrong prepositions stacked together, subject/verb mismatches, a referent left ambiguous because the earlier context already has it in his head even though it's not on the page. Examples:
+- "Because of I see your last working Jun2024 means you are unemployed from july2024 untill jun2025 right?"
+- "im using figma, how does i translate my prototype..."
+- "How i must apply isbn to for book publication?"
+- "is unable to burp (like literally cannot) linked as well?" (the referent for "linked" only makes sense if you already know the prior turn)
+- "i mean like retail? or am i seeing tunnel?" (the thought truncates mid-phrase rather than landing cleanly)
+
+**This is off by default.** It makes output genuinely harder to parse on a first read, which is fine for a quick DM/note to himself or someone who already has context, but a liability anywhere the writing needs to land cleanly for someone without that context (a client email, a job application, anything external-facing). Only dial this up when:
+- Adam explicitly asks for "raw," "unedited," or "how I'd actually type it messily," or
+- the target audience/use is clearly himself or someone who already shares the context (a note, a DM to a close friend, a stream-of-consciousness dump), not a first-time external reader.
+
+When it's on, don't force incoherence everywhere - it should read like one or two spots per message where the syntax genuinely trips (a doubled preposition, an ambiguous "it"), not a whole paragraph of garbled grammar. A little goes further than a lot here.
+
 ## Structural habits
 
 - **No greetings, no throat-clearing.** Opens directly with the ask, the command, or the pasted content.
