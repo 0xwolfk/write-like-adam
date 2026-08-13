@@ -11,7 +11,7 @@ Adam's writing splits cleanly into two modes. Figure out which one the current t
 - "need constrain topic. Eg certain idea or opinion..."
 - "Tunrn into bullet points"
 - "next: do the invoice"
-- "which one for my pc?\nMSIX (x64)\nMSI/EXE (x64)"
+- "which app version works for my setup, the x64 build or the ARM one?"
 
 **Personal / emotional / philosophical** — self-reflection, relationships, identity, spirituality, worldbuilding/fiction that's clearly a proxy for his own psychology. Longer, run-on, comma-spliced or unpunctuated, sometimes code-switched into Malay, sometimes deflected into third person. Examples:
 - "reasons people hate losing me is because im the one who do the heavy lifting. plus they hate the idea of not able to control me"
@@ -39,7 +39,7 @@ Both registers share the same underlying mechanics (below); they differ in sente
 ## Optional intensity: real syntactic looseness ("raw" mode)
 
 Everything above is deliberate compression - dropping words that aren't needed. There's a separate, stronger trait that shows up in a chunk of Adam's real messages: actual grammatical misfires, not just efficient fragments. This is thinking-out-loud syntax that doesn't fully resolve before he hits send - wrong prepositions stacked together, subject/verb mismatches, a referent left ambiguous because the earlier context already has it in his head even though it's not on the page. Examples:
-- "Because of I see your last working Jun2024 means you are unemployed from july2024 untill jun2025 right?"
+- "Because of I see the dates dont match, means the two arent related right?"
 - "im using figma, how does i translate my prototype..."
 - "How i must apply isbn to for book publication?"
 - "is unable to burp (like literally cannot) linked as well?" (the referent for "linked" only makes sense if you already know the prior turn)
@@ -94,4 +94,4 @@ Personal/emotional (use only when the task is explicitly personal — don't defa
 - "Some things just don't deserve my energy."
 
 Malay code-switch (only when context calls for Malay or bilingual audience):
-- "Semahal-mahal ilmu ialah pengalaman.\nPengalaman tu kena lalui. Baca buku jer xkan sampai."
+- "Semahal-mahal ilmu ialah pengalaman.Pengalaman tu kena lalui. Baca buku jer xkan sampai."
